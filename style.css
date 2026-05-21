@@ -158,14 +158,14 @@ h3 {
     color: var(--text-color);
 }
 
-.cards-container, .projects-container {
+.cards-container, .projetos-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 20px;
     margin-top: 20px;
 }
 
-.card, .project-card {
+.card, .projeto-card {
     background-color: var(--card-bg);
     border: 1px solid var(--border-color);
     padding: 20px;
@@ -174,7 +174,7 @@ h3 {
     flex-direction: column;
 }
 
-.project-img {
+.projeto-img {
     width: 100%;
     height: 160px;
     object-fit: cover;
@@ -183,7 +183,7 @@ h3 {
     background-color: #333;
 }
 
-.btn-project, .contact-btn {
+.btn-projeto, .contato-btn {
     display: inline-block;
     text-align: center;
     padding: 10px 20px;
@@ -197,11 +197,11 @@ h3 {
     transition: background-color 0.2s;
 }
 
-.btn-project:hover, .contact-btn:hover {
+.btn-projeto:hover, .contato-btn:hover {
     background-color: var(--btn-hover);
 }
 
-.contact-links {
+.contato-links {
     display: flex;
     gap: 15px;
     flex-wrap: wrap;
@@ -209,7 +209,7 @@ h3 {
     margin-top: 25px;
 }
 
-.contact-btn {
+.contato-btn {
     margin-top: 0;
     min-width: 140px;
 }
@@ -226,6 +226,6 @@ h3 {
     }
 }
 
-.btn-project {
+.btn-projeto {
     margin-top: auto !important;
 }
