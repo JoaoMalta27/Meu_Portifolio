@@ -3,7 +3,7 @@
 Este é o repositório do meu portfólio pessoal, desenvolvido para apresentar a minha trajetória, projetos e competências na área de tecnologia.
 
 ## Link do Projeto
-[**Acesse ao portfólio online clicando aqui!**](https://joaomalta27.github.io/Meu_Portifolio/) 
+[**Acesso ao portfólio online clicando aqui!**](https://joaomalta27.github.io/Meu_Portifolio/) 
 
 ## Tecnologias Utilizadas
 * **HTML5:** Estruturação semântica.
